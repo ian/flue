@@ -18,7 +18,7 @@
 		"docs"
 	],
 	"engines": {
-		"node": ">=22.19.0"
+		"node": ">=22.23.4"
 	},
 	"scripts": {
 		"prebuild": "tsx scripts/generate-blueprint-index.ts",
